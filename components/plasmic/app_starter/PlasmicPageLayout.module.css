@@ -5,7 +5,7 @@
   object-fit: cover;
   min-height: 100vh;
   position: relative;
-  color: #ffffff;
+  background: #ffffff;
   grid-column-start: 1 !important;
   grid-column-end: -1 !important;
 }
@@ -87,6 +87,7 @@
   width: 100%;
   height: auto;
   max-width: 100%;
+  color: #535353;
   min-width: 0;
 }
 .svg__vBxf1 {
